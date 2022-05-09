@@ -16,3 +16,5 @@ src-git 4IceG https://github.com/4IceG/luci-app-3ginfo.git
 src-git ophub https://github.com/ophub/luci-app-amlogic
 src-git xcachee https://github.com/xcachee/bad_cork.git
 src-git giaulo https://github.com/giaulo/luci-app-filebrowser.git
+src-git hubbylei https://github.com/hubbylei/luci-app-clash.git
+src-git thinktip https://github.com/thinktip/luci-theme-neobird.git
